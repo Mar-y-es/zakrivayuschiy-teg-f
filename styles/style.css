@@ -325,7 +325,7 @@
   mix-blend-mode: difference;
 }
 
-/*Модал*/
+/*Modal*/
 
 .dialog {
   width: clamp(341px, 50%, 357px);
