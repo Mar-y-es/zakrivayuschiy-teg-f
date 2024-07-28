@@ -99,6 +99,7 @@
   text-transform: uppercase;
   background-color: transparent;
   cursor: pointer;
+  transition: opacity 0.3s ease;
 }
 .theme-menu__button:disabled {
   pointer-events: none;
