@@ -386,7 +386,11 @@ dialog[open] {
 }
 
 /*Адаптив*/
-
+@media (width <= 711px) {
+  .dialog__close-button {
+    inline-size: 275px;
+  }
+}
 @media (width <= 376px) {
   .header {
     margin: 100px auto 100px auto;
